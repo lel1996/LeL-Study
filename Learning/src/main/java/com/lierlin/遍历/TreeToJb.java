@@ -56,7 +56,7 @@ public class TreeToJb {
      * @param nodes
      * @return
      */
-    public static List<Node> getChildNodes(String nodeId, Map<String,Node> nodes){
+    private static List<Node> getChildNodes(String nodeId, Map<String, Node> nodes){
         List<Node> list = new ArrayList<>();
         for (String key : nodes.keySet() ) {
             if(nodes.get(key).getParentId().equals(nodeId)){

@@ -8,15 +8,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class HelloController {
-
-
     private static final Logger log = LoggerFactory.getLogger(HelloController.class);
 
     @RequestMapping("/hello")
     //对应的自定义注解，当方法上写这个注解时，就会进入切面类中
-    @Loger(title="哈喽模块",action="say哈喽")
+    @Loger(title = "哈喽模块", action = "say哈喽")
     public String sayHello() {
-        log.info("HelloController sayHello:{}","hello world!");
+        log.info("HelloController sayHello:{}", "hello world!");
         return "hello";
     }
 }

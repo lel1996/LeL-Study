@@ -8,9 +8,13 @@ import org.springframework.stereotype.Component;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
 @Component
 public class Person {
+
+    public Person(){
+        System.out.println("Person 对象被实例化了");
+
+    }
     @Value("lierlin")
     private String name;
     @Value("14")

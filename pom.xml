@@ -32,6 +32,10 @@
         <module>springmvc-文件上传</module>
         <module>springmvc-test</module>
         <module>Learning</module>
+        <module>TaskExecutor</module>
+        <module>Conditional</module>
+        <module>Test</module>
+        <module>LeL-SpringBoot</module>
     </modules>
 <dependencies>
     <dependency>

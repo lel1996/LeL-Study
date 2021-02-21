@@ -8,6 +8,7 @@ import java.util.Iterator;
 import java.util.Map;
 
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.stream.Stream;
 
 public class MapTest {
     private final static Logger logger = LoggerFactory.getLogger(MapTest.class);
@@ -24,6 +25,7 @@ public class MapTest {
         mapTest.two(map);
         mapTest.three(map);
         mapTest.four(map);
+        mapTest.five(map);
     }
 
     public void one(Map<String, String> map) {
@@ -62,5 +64,10 @@ public class MapTest {
         }
     }
 
+    public void five(Map<String,String> map){
+        System.out.println("-------------------------------");
+        System.out.println("第五种方法：用jdk8新特性遍历map集合");
+        map.forEach((k,v)->System.out.println("key: "+ k +"-------->value: "+v));
+    }
 
 }

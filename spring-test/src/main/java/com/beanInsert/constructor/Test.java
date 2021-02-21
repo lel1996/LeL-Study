@@ -1,6 +1,6 @@
 package com.beanInsert.constructor;
 
-import com.beanInsert.constructor.SpringAction;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

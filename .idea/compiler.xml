@@ -7,16 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Conditional" />
         <module name="poi" />
         <module name="springmvc-test" />
         <module name="springmvc-文件上传" />
+        <module name="Test" />
         <module name="aop-test" />
         <module name="spring-test" />
         <module name="LubanSpring" />
         <module name="Learning" />
         <module name="mybatis-test" />
+        <module name="TaskExecutor" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LeL-SpringBoot" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
