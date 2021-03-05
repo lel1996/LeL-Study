@@ -15,9 +15,10 @@
         <module name="aop-test" />
         <module name="spring-test" />
         <module name="LubanSpring" />
+        <module name="Vertx" />
         <module name="Learning" />
-        <module name="mybatis-test" />
         <module name="TaskExecutor" />
+        <module name="mybatis-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

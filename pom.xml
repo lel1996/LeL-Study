@@ -35,7 +35,7 @@
         <module>TaskExecutor</module>
         <module>Conditional</module>
         <module>Test</module>
-        <module>LeL-SpringBoot</module>
+        <module>Vertx</module>
     </modules>
 <dependencies>
     <dependency>

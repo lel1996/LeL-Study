@@ -29,4 +29,20 @@ calc(10);
         n++;
         return n++;
     }
+
+
+    public int[] twoSum(int[] nums, int target) {
+        int returnSize[]=new int[2];
+        for(int j=0 ; j < nums.length; j++){
+            for(int k = j+1 ; k < nums.length;k++){
+                if(nums[j]+nums[k] == target){
+                    returnSize[0] = j;
+                    returnSize[1] = k;
+
+                }
+
+            }
+        }
+        return returnSize;
+    }
 }
