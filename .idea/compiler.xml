@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Conditional" />
+        <module name="TaskExecutor" />
         <module name="poi" />
         <module name="springmvc-test" />
         <module name="springmvc-文件上传" />
@@ -17,8 +17,8 @@
         <module name="LubanSpring" />
         <module name="Vertx" />
         <module name="Learning" />
-        <module name="TaskExecutor" />
         <module name="mybatis-test" />
+        <module name="Conditional" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
