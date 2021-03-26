@@ -6,43 +6,38 @@
       <artifact name="springmvc-文件上传:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d18bb927-1c2d-4bf9-8ba6-e097c48b92fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/多线程按序打印.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/最长公共前缀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/删除字符串中的所有相邻重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/复制数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/数组中出现次数超过一半的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/罗马数字转整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/遍历/归并算法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/多线程按序打印.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/最长公共前缀.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/简单/删除字符串中的所有相邻重复项.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/简单/复制数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/简单/数组中出现次数超过一半的数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/leetCode/罗马数字转整数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/遍历/归并算法.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/invoke/cglib/DemoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/invoke/cglib/MyCglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/invoke/cglib/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/invoke/cglib/DemoProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/invoke/cglib/MyCglibProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/invoke/cglib/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/Resource/dhcc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/Resource/dhcc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/CAS/AtomicIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/CAS/AtomicIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/META-INF/Learning.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/IO/netty/bio/BioServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/IO/netty/bio/BioServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReenToAbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReenToAbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReenTrantLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReenTrantLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReentrantLockABCABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReentrantLockABCABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReentrantLockTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ReentrantLockTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ThreadLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/ThreadTest/ThreadLocalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/rabbitMQ/rpc/RPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/rabbitMQ/rpc/RPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/rabbitMQ/工作队列/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/target/classes/com/lierlin/rabbitMQ/工作队列/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-test/springmvc-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-test/springmvc-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-文件上传/springmvc-文件上传.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-文件上传/springmvc-文件上传.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/mybatis-test/target/" />
-    <ignored path="$PROJECT_DIR$/aop-test/target/" />
-    <ignored path="$PROJECT_DIR$/springmvc-test/target/" />
-    <ignored path="$PROJECT_DIR$/spring-test/target/" />
-    <ignored path="$PROJECT_DIR$/poi/target/" />
-    <ignored path="$PROJECT_DIR$/LubanSpring/target/" />
-    <ignored path="$PROJECT_DIR$/springmvc-文件上传/target/" />
-    <ignored path="$PROJECT_DIR$/Learning/target/" />
-    <ignored path="$PROJECT_DIR$/TaskExecutor/target/" />
-    <ignored path="$PROJECT_DIR$/Conditional/target/" />
-    <ignored path="$PROJECT_DIR$/Test/target/" />
-    <ignored path="$PROJECT_DIR$/LeL-SpringBoot/target/" />
-    <ignored path="$PROJECT_DIR$/Vertx/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,106 +59,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/多线程按序打印.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2345">
-              <caret line="149" column="6" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/回文数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/数组中出现次数超过一半的数字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/遍历/归并算法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/单一字符串.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/两数相加.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/最长公共前缀.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/复制数组.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="35" column="59" lean-forward="true" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-              <folding>
-                <element signature="e#63#483#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/罗马数字转整数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#290#1295#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -260,9 +155,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\maven\repository" />
-        <option name="mavenHome" value="E:/maven/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/Downloads/apache-maven-3.6.31111/reporitory" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.31111" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.6.31111/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -296,6 +191,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectId" id="1qIDl75NrGN4r6TxUcN2kH4YRLr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -538,6 +434,10 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -547,11 +447,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -570,21 +470,48 @@
       <recent name="com.lierlin.DesignPatterns" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.复制数组">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lierlin.leetCode.回文数" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lierlin.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lierlin.leetCode.最长公共前缀" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lierlin.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lierlin.invoke.cglib.Test" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lierlin.invoke.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZsFanZhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lierlin.leetCode.ZsFanZhuan" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -628,19 +555,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lierlin.leetCode.简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZsFanZhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lierlin.leetCode.ZsFanZhuan" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lierlin.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -696,6 +610,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -791,20 +716,19 @@
       <item itemvalue="Application.回文数" />
       <item itemvalue="Spring Boot.PoiApplication" />
       <item itemvalue="Tomcat Server.tomcat7" />
-      <item itemvalue="Application.归并算法" />
-      <item itemvalue="Application.删除字符串中的所有相邻重复项" />
-      <item itemvalue="Application.复制数组" />
+      <item itemvalue="Application.最长公共前缀" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.复制数组" />
-        <item itemvalue="Application.删除字符串中的所有相邻重复项" />
-        <item itemvalue="Application.归并算法" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.最长公共前缀" />
         <item itemvalue="Application.回文数" />
         <item itemvalue="Application.ZsFanZhuan" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration useDefault="false">D:\SVN项目管理工具</configuration>
   </component>
@@ -876,6 +800,7 @@
       <workItem from="1615000465486" duration="8127000" />
       <workItem from="1615170870537" duration="5497000" />
       <workItem from="1615257731301" duration="8997000" />
+      <workItem from="1616758361869" duration="3005000" />
     </task>
     <task id="LOCAL-00001" summary="增加手写mybatis模块">
       <created>1608002817407</created>
@@ -963,9 +888,23 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Learning/src/main/java/com/lierlin/minimybatis" />
+    </ignored-roots>
     <MESSAGE value="增加手写mybatis模块" />
     <MESSAGE value="增加线程模块" />
     <MESSAGE value="letcode" />
@@ -977,43 +916,36 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.10.RELEASE/spring-context-5.2.10.RELEASE.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.class</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/CAS/AtomicIntegerTest.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LubanSpring/src/main/java/com/spring/LubanApplicationContext.java</url>
           <line>97</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/spring-test/src/main/java/com/lierlin/Test.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/db/dbPool/Test.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/遍历/归并算法.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Learning/src/main/java/com/lierlin/leetCode/简单/删除字符串中的所有相邻重复项.java</url>
           <line>72</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>

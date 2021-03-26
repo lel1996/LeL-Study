@@ -45,7 +45,7 @@ public class Main {
         info.setProperty("user","root");
         info.setProperty("password","rootroot");
         try {
-            driver = new com.mysql.jdbc.Driver();
+            //driver = new com.mysql.jdbc.Driver();
             Connection connection = driver.connect("jdbc:mysql://localhost:3306/tt",info);
             System.out.println(connection);
         } catch (SQLException e) {

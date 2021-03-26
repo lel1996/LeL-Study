@@ -1,6 +1,6 @@
 package com.lierlin.CAS;
 
-import lombok.extern.log4j.Log4j;
+//import lombok.extern.log4j.Log4j;
 
 import java.math.BigDecimal;
 import java.util.concurrent.atomic.AtomicInteger;
